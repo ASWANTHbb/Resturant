@@ -1,0 +1,68 @@
+#headimg{
+    width: 10%;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -100px;
+}
+.logo{
+    margin-top: -40px;
+}
+#headli{
+    align-items: center;
+    justify-content: center;
+}
+#headli li{
+    display: inline;
+    list-style: none;
+    margin-top: 10px;
+    list-style: none;
+    margin: 20px;
+    
+}
+#headli a{
+    list-style: none;
+    text-decoration: none;
+    color: gray;
+    font-weight: 500;
+}
+#headli a:hover{
+    color: black;
+}
+
+*{
+    font-family: "Quicksand", sans-serif;
+}
+#imagemain{
+    margin: 20px;
+    margin-top: 30px;
+    padding: 30px;
+    display: flex;
+}
+#plates{
+    width: 400px;
+    height: 400px;
+    margin: 25px;
+}
+#head1{
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+#head2{
+    font-size: 40px;
+    margin-left: 570px;
+    margin-top: -70px;
+}
+#head3{
+    font-size: 40px;
+    margin-left: 1040px;
+    margin-top: -70px;
+}
+#title{
+    justify-content: center;
+    margin-left: 700px;
+}
